@@ -1,12 +1,14 @@
 Atalhos para Eclipse:
 
-Ctrl + .:			vai para prox erro
+Ctrl + .:						vai para prox erro
 
-Alt + Shift + R:	refactor
+Alt + Shift + R:				refactor
 
-Alt + Shift + T:	abre opções de refactor
+Alt + Shift + D no debug:		mostra o valor atrelado a variavel na perspectiva Debug
 
-Ctrl + Shift + F:	identa o codigo
+Alt + Shift + T:				abre opções de refactor
+
+Ctrl + Shift + F:				identa o codigo
 
 Ctrl + f11			- exec. o codigo
 
@@ -19,6 +21,8 @@ Ctrl + Shift + T 	- busca types classes interfaces
 F3 					- em cima do tipo, leva até a sua declaração
 
 F4					- em cima da classe abre o Type Hierar...
+
+Ctrl + F2:						para o debug
 
 Ctrl + O 			- na classe abre os detalhes
 
@@ -95,22 +99,28 @@ posicionar o cursor sobre uma classe abstrata + CRTL + T: exibe os subtipos
 posicionar o cursor sobre uma classe + CTRL + SHIFT + G : encontra usos de classes métodos ou atributos.
 posicionar o cursor sobre uma classe + CTRL + ALT + H : encontra usos de métodos e os metodos que usam esse metodo anterior e assim por diante. (hierarquia)
 
-Alt + SETA DIREITA/ESQUERDA: funciona como avançar e voltar do navegador
-Alt + Shift + X, J: Executar uma classe
+Alt + SETA DIREITA/ESQUERDA:	funciona como avançar e voltar do navegador
 
-Alt + Shift + X, T: Executar testes unitários
+Alt + Shift + X, J: 			executar uma classe
+ 
+Alt + Shift + X, T: 			executar testes unitários - JUnit
 
-Ctrl + Shift + L: Listar todos os atalhos do Eclipse
+Ctrl + Shift + L: 				listar todos os atalhos do Eclipse
 
-Ctrl + Shift + / : criar bloco de comentários
-Retirar o comentário do bloco: Ctrl + Shift + \
-Comentar e retirar comentário simples //: Ctrl + /
+Ctrl + Shift + / : 				criar bloco de comentários
 
-CRTL + J: busca incremental
-CTRL + K: vai pra proxima ocorrencia
-CTRL + SHIFT + K: volta uma ocorrencia
+Retirar o comentário do bloco: 	Ctrl + Shift + \
 
-CTRL + H: busca qualquer texto em qualquer arquivo.
+Comentar e retirar comentário simples //:
+								Ctrl + /
+
+CRTL + J:						busca incremental
+
+CTRL + K:						vai pra proxima ocorrencia
+
+CTRL + SHIFT + K:				volta uma ocorrencia
+
+CTRL + H:						busca qualquer texto em qualquer arquivo.
 
 Mostrar o número das linhas: Windows > Preferences | General -> Editors -> Text Editors e marque o checkbox “Show line numbers”
 

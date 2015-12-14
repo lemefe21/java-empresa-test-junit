@@ -12,10 +12,11 @@ import br.com.caelum.empresa.modelo.Gasto;
 public class TesteImportador {
 
 	public static void main(String[] args) throws UnsupportedEncodingException, ParseException {
-		String conteudo = 
-				"CARTAO01012011000010000123jbjasbd jbjbbb                22071983\r\n" +
-				"CARTAO01012011000010000123jbjasbd jbjbbb                22071983\r\n" +
-				"CARTAO01012011000010000123jbjasbd jbjbbb                22071983\r\n";
+		
+		String conteudo = "CARTAO010120110000100000123Joao da Silva                 25012970\r\n"
+                + "CARTAO010120110000100000124Jose da Silva                 25012970\r\n"
+                + "CARTAO010120110000100000124Jose da Silva                 25012970\r\n"
+                + "CARTAO010120110000100000124Jose da Silva                 25012970";
 
 		ImportadorDeGastos importador = new ImportadorDeGastos();
 
