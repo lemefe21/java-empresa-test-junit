@@ -1,12 +1,14 @@
-Ctrl + . 			- vai para prox erro
+Atalhos para Eclipse:
 
-Alt + Shift + R 	- refactor
+Ctrl + .:			vai para prox erro
 
-Alt + Shift + T		- abre opções de refactor
+Alt + Shift + R:	refactor
 
-Ctrl + Shift + F  	- identa o codigo
+Alt + Shift + T:	abre opções de refactor
 
-Ctrl + F11 			- exec. o codigo
+Ctrl + Shift + F:	identa o codigo
+
+Ctrl + f11			- exec. o codigo
 
 Shift + Alt + M 	- extract new method
 
@@ -49,9 +51,6 @@ Obs.: Os dois últimos atalhos são também utilizados por algumas placas gráficas 
 Ctrl + E: Habilita seleção dos arquivos abertos no Editor de código fonte.
 
 
-Atalhos Eclipse
-
-24 de dezembro de 2014 fabiohxcx	Deixe um comentário
 ctrl + M = Maximiza a tela
 main + ctrl + space = cria o método main
 ctrl + 1 = para criar uma variavel do tipo, onde o mouse está, Ela ativa uma correção rápida em qualquer erro ou warnings.
@@ -117,6 +116,6 @@ Mostrar o número das linhas: Windows > Preferences | General -> Editors -> Text 
 
 Windows > Preferences | Java > Editor > Templates : criar, editar, excluir templates de códigos.
 
-CTRL + SHIFT + W: fecha todas as janelas
+CTRL + SHIFT + W: 	fecha todas as janelas
 
-ALT + SHIFT + T: exibe o menu de refactor
+ALT + SHIFT + T: 	exibe o menu de refactor
