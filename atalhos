@@ -1,0 +1,122 @@
+Ctrl + . 			- vai para prox erro
+
+Alt + Shift + R 	- refactor
+
+Alt + Shift + T		- abre opções de refactor
+
+Ctrl + Shift + F  	- identa o codigo
+
+Ctrl + F11 			- exec. o codigo
+
+Shift + Alt + M 	- extract new method
+
+Ctrl + Shift + R 	- busca arquivos
+
+Ctrl + Shift + T 	- busca types classes interfaces
+
+F3 					- em cima do tipo, leva até a sua declaração
+
+F4					- em cima da classe abre o Type Hierar...
+
+Ctrl + O 			- na classe abre os detalhes
+
+Ctrl + T 			- em cima da classe ou método para ver as subclasses
+
+Ctrl + Shift + G 	- em cima do metodo/classe/atributo mostra onde ele é utilizado
+
+Ctrl + Shift + H	- busca um tipo e mostra sua hierarquia
+
+Ctrl + Alt + H		- mostra a hierarquia do metodo
+
+Ctrl + J			- busca imcremental - Ctrl + K e Ctrl + Shift + K para navegar
+
+Ctrl + H			- busca por nome - Ctrl + . e Ctrl + , para navegar nos resultados
+
+Ctrl + Shift + W	- fecha os editores
+
+
+
+
+
+
+Ctrl + Shift + R: 	Este atalho abre uma janela para busca por resources, arquivos que se encontrem no seu workspace.
+Ctrl + Shift + T: 	Este atalho habilita uma janela de busca de arquivos de código fonte, arquivos compiláveis, inclusive os que se encontram dentro dos jar’s usadas pela aplicação.
+Ctrl + Shift + F: 	Este atalho identa o teu código, baseado nos templates definidos nas preferências da IDE. Se não existir nenhum template, o padrão do eclipse será utilizado.
+Ctrl + I: 			Organiza o código selecionado, com relação ao espaçamento do mesmo.
+Ctrl + Alt + Seta para baixo/cima: 	Faz uma cópia da seleção do código para cima ou para baixo. Simula o Ctrl + C/Ctrl + V sem o esforço deste mesmo atalho.
+Alt + Seta para cima/baixo: 		Transporta o código selecionado para cima ou para baixo uma linha.
+Obs.: Os dois últimos atalhos são também utilizados por algumas placas gráficas de alguns monitores. Se acontecer de a tela ficar de cabeça para baixo, simplesmente desabilite o atalho no software das mesmas.
+Ctrl + E: Habilita seleção dos arquivos abertos no Editor de código fonte.
+
+
+Atalhos Eclipse
+
+24 de dezembro de 2014 fabiohxcx	Deixe um comentário
+ctrl + M = Maximiza a tela
+main + ctrl + space = cria o método main
+ctrl + 1 = para criar uma variavel do tipo, onde o mouse está, Ela ativa uma correção rápida em qualquer erro ou warnings.
+ctrl + 1 em new Funcionario para criar a variavel e atribuila ao new criado anteriormente
+ctrl + 2 L. Outro jeito de criar variáveis é selecionar a expressão e usar Alt+Shift+L. O L é de Local variable.
+sysout + ctrl + space = cria o System.out.println
+*ctrl + f11 = executa o método main
+colocar o mouse em cima do Tipo e apertar F3 = abre a classe, ou então vai na declaração da variavel
+ctrl + Pagedown ou Ctrl + PageUP = para alterar entre as abas
+Ctrl + F6 = troca de aba
+Ctrl + E: Pesquisar e navegar em arquivos abertos
+ctrl + 3 = atalho rápido, digitar o que vc precisa, acessar qualquer menu
+Ctrl + .(ponto) = o Eclipse move o cursor para o erro mais próximo
+CTRL+SHIFT+O = Organiza os imports, imports faltantes são colocados e os não utilizado são retirados
+
+CTRL+E = Shows you a list of all open editors.
+Alt+Shift+X e J = rodar a classe como Java application
+CTRL + N + Cla = Cria Classe
+
+
+alt + shift + a = entra/sai no modo de seleção em bloco
+selecionar o começo das linhas e digitar a palavra que será inserido em todas as linhas selecionadas
+
+CTRL+SHIFT+F = formata e indenta
+ctrl + I: indenta o codigo
+ALT+SHIFT+R = renomear variaveis e classes
+
+ALT + SETA CIMA/ABAIXO: move a linha
+
+alt + shift + M: Extract Method
+
+Ctrl + W: fechar janela de edição
+
+Ctrl + D: exclui linha
+
+Ctrl + Shift + R = Abrir o código de um arquivo, digitar o nome do arquivo
+CTRL + SHIFT + T = procura por alguma Classe ou Interface pelo nome.
+CTRL + O = ir para algum método
+CTRL + O + CTRL + O: mostra os metodos herdados
+
+posicionar o cursor sobre uma classe abstrata + CRTL + T: exibe os subtipos
+posicionar o cursor sobre uma classe + CTRL + SHIFT + G : encontra usos de classes métodos ou atributos.
+posicionar o cursor sobre uma classe + CTRL + ALT + H : encontra usos de métodos e os metodos que usam esse metodo anterior e assim por diante. (hierarquia)
+
+Alt + SETA DIREITA/ESQUERDA: funciona como avançar e voltar do navegador
+Alt + Shift + X, J: Executar uma classe
+
+Alt + Shift + X, T: Executar testes unitários
+
+Ctrl + Shift + L: Listar todos os atalhos do Eclipse
+
+Ctrl + Shift + / : criar bloco de comentários
+Retirar o comentário do bloco: Ctrl + Shift + \
+Comentar e retirar comentário simples //: Ctrl + /
+
+CRTL + J: busca incremental
+CTRL + K: vai pra proxima ocorrencia
+CTRL + SHIFT + K: volta uma ocorrencia
+
+CTRL + H: busca qualquer texto em qualquer arquivo.
+
+Mostrar o número das linhas: Windows > Preferences | General -> Editors -> Text Editors e marque o checkbox “Show line numbers”
+
+Windows > Preferences | Java > Editor > Templates : criar, editar, excluir templates de códigos.
+
+CTRL + SHIFT + W: fecha todas as janelas
+
+ALT + SHIFT + T: exibe o menu de refactor
