@@ -22,8 +22,8 @@ import br.com.caelum.empresa.modelo.Gasto;
  * Content Assit - ajuda a configuração para subtituir um metodo ao
  * 		digitar Crtl+Espaco alterando para Completion averwrite.
  * 		Em Insert best guessed arg ajuda a setar os parametros.
- * 		Em Type Filters sugerimos opções classes que não aparecerão
- * 		na lista como opção de imports.
+ * 		Em Type Filters (Java/Appearance) sugerimos opções classes
+ * 		que não aparecerão na lista como opção de imports.
  * Favorites - incluimos na lista de chamadas os métodos static
  * Keys - possibilita a criação de novos atalhos
  *
