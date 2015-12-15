@@ -18,6 +18,10 @@ Ctrl + Shift + R 	- busca arquivos
 
 Ctrl + Shift + T 	- busca types classes interfaces
 
+Ctrl + Shift + M:				para declaração de métodos que queremos importar como static
+
+Ctrl + Shift + L:				lista de atalhos do Eclipse
+
 F3 					- em cima do tipo, leva até a sua declaração
 
 F4					- em cima da classe abre o Type Hierar...
